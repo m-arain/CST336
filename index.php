@@ -7,5 +7,9 @@
 echo "Mohammad Arain's CST 336 Internet Programming";
 
 ?>
+<br/><br/>
+    <h1>Labs</h1>
+    <a href="labs/lab1/index.html"> Lab 1 </a>
+
 </body>
 </html>
